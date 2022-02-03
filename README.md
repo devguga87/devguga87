@@ -1,5 +1,5 @@
 ### Hi there 
-My name is Gustavo Seabra, Im a developer working with NodeJS, ReactJS, ReactNative. 
+My name is Gustavo Seabra, Im a frontend developer!  
 
 <!--
 **devguga87/devguga87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
