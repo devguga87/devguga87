@@ -7,8 +7,10 @@ Olá! Eu sou Gustavo, profissional de TI com experiência nas áreas de desenvol
 
 ## 🧠 Áreas de Atuação
 
-- Desenvolvimento de sistemas frontend e backend.
-- Integrações via API RESTful e Web Services.
+- **Desenvolvimento Full Stack:** Criação de aplicações web robustas com foco em performance, escalabilidade e manutenção.
+- **Backend Development:** APIs RESTful, microsserviços, regras de negócio e persistência de dados.
+- **Frontend Development:** Interfaces dinâmicas, responsivas e centradas na experiência do usuário.
+- **Integração de Sistemas:** Conectando aplicações via APIs, Web Services e mensageria.
 
 ---
 
